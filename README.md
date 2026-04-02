@@ -30,6 +30,7 @@ Generating accurate and contextual responses
 💻 Interactive UI with Streamlit
 
 🧠 How It Works
+
 🔹 Step 1: Data Processing
 Input documents are:
 Cleaned
