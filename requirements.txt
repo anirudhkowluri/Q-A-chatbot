@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain_groq
+pandas
+numpy>=2.1.0
+python-dotenv
