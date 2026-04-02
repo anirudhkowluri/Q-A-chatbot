@@ -101,10 +101,15 @@ streamlit run app.py
 
 
 📊 Example Use Cases
+
 📘 Document-based Q&A (PDFs, notes, reports)
+
 🏢 Enterprise knowledge assistants
+
 🎓 Study/help assistants
+
 💬 Customer support bots
+
 📊 Internal company chatbots
 
 🔥 What Makes This Project Stand Out
@@ -115,8 +120,14 @@ Demonstrates LLM integration + vector search
 Production-style pipeline design
 
 🚀 Future Improvements
+
 🧠 Memory-based conversations (chat history)
+
 🔐 Role-based access for enterprise use
+
 📄 Multi-document upload support
+
+
 🌍 Multi-language Q&A
+
 📊 Answer confidence scoring
